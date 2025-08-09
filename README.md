@@ -114,7 +114,7 @@ How does price range relate to ratings?
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Rohan Ravi**  
 Data Analyst  
 📧 Email: rohan112.ravi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohnravii/)  
