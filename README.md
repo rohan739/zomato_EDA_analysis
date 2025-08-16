@@ -45,7 +45,7 @@ These insights can help restaurant owners optimize offerings, improve customer e
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 - Excel (Exploration and understanding the dataset)
-- Python (Pandas, Matplotlib, Seaborn, SciPy)
+- Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Canva
 - GitHub
 
